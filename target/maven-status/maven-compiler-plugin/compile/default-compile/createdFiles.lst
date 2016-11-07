@@ -1,0 +1,5 @@
+com/jaxrstest/pojo/Student.class
+com/jaxrstest/pojo/Students.class
+com/jaxrstest/helper/DataLoader.class
+com/jaxrstest/service/JaxService.class
+com/jaxrstest/helper/DetailsHelper.class
